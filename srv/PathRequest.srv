@@ -1,0 +1,6 @@
+int32 currentx
+int32 currenty
+char[4] goal
+---
+int32[] pathx
+int32[] pathy
